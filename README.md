@@ -6,7 +6,7 @@ This project demonstrates how to analyze a simple sales dataset using **Python**
 
 To perform basic data analysis on a CSV file containing sales data and visualize the insights using charts.
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 
 - Python 3.x
 - Pandas
