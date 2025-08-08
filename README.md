@@ -21,7 +21,7 @@ SalesDataAnalysis/
 
 ## Dataset Overview
 
-`sales_data.csv` contains the following columns:
+`salesdata.csv` contains the following columns:
 
 | Column   | Description               |
 |----------|---------------------------|
@@ -51,17 +51,17 @@ SalesDataAnalysis/
 
 ### Product-wise Sales Chart
 
-![Bar Chart](example-product-sales.png)
+![Bar Chart]
 
 ### Region-wise Sales Pie Chart
 
-![Pie Chart](example-region-sales.png)
+![Pie Chart]
 
 > *You can generate these charts by running the notebook.*
 
-## ▶️ How to Run
+## How to Run
 
-### Option 1: Jupyter Notebook
+### Using Jupyter Notebook
 
 ```bash
 pip install pandas matplotlib
